@@ -1,5 +1,5 @@
 <script setup lang="ts">
-	import { useStore } from '@/store';
+	import { useStore } from '@/stores';
 	import VitailseLogo from '@/assets/logo.png';
 	useHead({
 		title: 'Vitailse | Opinionated vite starter template',
@@ -46,7 +46,7 @@
 			</div>
 		</div>
 		<router-link
-			:to="{ name: 'other-page' }"
+			:to="{ name: 'videos' }"
 			class="
 				mt-5
 				text-center
@@ -54,7 +54,7 @@
 				dark:hover:text-gray-500
 				hover:underline
 			"
-			>{{ t('pages.other.menu') }}</router-link
+			>{{ t('pages.videos.menu') }}</router-link
 		>
 	</div>
 </template>

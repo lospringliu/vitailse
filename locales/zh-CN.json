@@ -1,0 +1,22 @@
+{
+	"pages": {
+		"home": "首页",
+		"videos": {
+			"menu": "视频",
+			"desc": "视频页面"
+		},
+		"not-found": "找不到页面"
+	},
+	"app": {
+		"offline": "可以离线运行",
+		"new-content": "有更新可用，点击 重载 升级"
+	},
+	"intro": {
+		"desc": "欢迎使用Vitailse",
+		"github": "github repo"
+	},
+	"button": {
+		"reload": "重载",
+		"close": "关闭"
+	}
+}

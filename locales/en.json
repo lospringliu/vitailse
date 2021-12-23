@@ -1,9 +1,9 @@
 {
 	"pages": {
 		"home": "Home",
-		"other": {
-			"menu": "Other Page",
-			"desc": "An example of other pages"
+		"videos": {
+			"menu": "videos",
+			"desc": "videos page"
 		},
 		"not-found": "Page not found"
 	},
